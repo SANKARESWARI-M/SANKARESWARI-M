@@ -21,6 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-mQCw0SGF26LQn5OXZ-8CdaHFLH2clPr/view?usp=sharing](https://drive.google.com/file/d/1-mQCw0SGF26LQn5OXZ-8CdaHFLH2clPr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/sankareswari-m/"/>
 <p align="left">
 </p>
 
