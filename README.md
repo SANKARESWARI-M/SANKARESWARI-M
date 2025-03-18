@@ -51,13 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANKARESWARI-M&theme=radical&no-frame=false&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANKARESWARI-M&theme=react-dark&hide_border=true" alt="Contribution Graph">
