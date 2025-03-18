@@ -51,6 +51,13 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANKARESWARI-M&theme=radical&no-frame=false&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANKARESWARI-M&theme=react-dark&hide_border=true" alt="Contribution Graph">
@@ -63,7 +70,7 @@
   <a href="https://www.linkedin.com/in/sankareswari-m/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:mk3207587@gmail.com">
+  <a href="mailto:2212097@nec.edu.in">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/SANKARESWARI-M">
